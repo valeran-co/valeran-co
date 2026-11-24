@@ -1,16 +1,13 @@
-## Hi there 👋
+# Valeran
 
-<!--
-**valeran-co/valeran-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI sales and quoting workspace for B2B teams.
 
-Here are some ideas to get you started:
+Valeran finds companies that may need what you sell, drafts a short first message, and when someone replies it asks for the missing details and drafts the quote from your own price list. You approve the decisions that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Early and live. Plans from $149 to $349 per month.
+
+- Website: https://valeran.co
+- Products: https://valeran.co/products
+- Pricing: https://valeran.co/pricing
+- LinkedIn: https://www.linkedin.com/company/valeran-co
+- Contact: hello@valeran.co
